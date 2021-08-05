@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //Terserah Mo diganti gpp ntar error jgn salahin gw
-global.channelYT = ['https://bit.ly/3hg3bm4'] 
-global.owner = ['6287834993722']// Put your number here
-global.mods = ['6287834993722'] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.channelYT = [] 
+global.owner = ['62895378264836']// Put your number here
+global.mods = ['62895378264836'] // Want some help?
+global.prems = ['62895378264836'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -20,18 +20,18 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
+  'https://api.xteam.xyz': '284d009ce74863ed',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismaelapikey',
+  'https://api.zeks.xyz': 'TH9T7qRgvtT6i3ir94pWGFe92oA',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ' 
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll' 
 }
 
 // Sticker WM
-global.packname = 'ZeroChanBot'
-global.author = 'Zeroo'
+global.packname = 'ZyxMapLe'
+global.author = 'Ramaganz'
 
 global.multiplier = 20 // The higher, The harder levelup
 
